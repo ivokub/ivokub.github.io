@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ivokub
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ivokub.github.io
+  * I am ivokub (https://keybase.io/ivokub) on keybase.
+  * I have a public key ASA1Z1fhq6zrm0a6_35IcVM4l-BHEAcMD2UOS9lI2pAT6Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120651ef7ab806fbd7f1ebb4ba7b035635bebb72dca4280036d504ea71835de34d20a",
+      "host": "keybase.io",
+      "kid": "0120356757e1abaceb9b46baff7e4871533897e04710070c0f650e4bd948da9013e80a",
+      "uid": "70e403a168069144ba260e0b07556719",
+      "username": "ivokub"
+    },
+    "merkle_root": {
+      "ctime": 1627220802,
+      "hash": "885a406e37d98056a2790e89c3c938c42ea0c632c2ccda3af8a65a481e323734f239d911ef2152ca657db6abd793468baa65a09bc1a3e181bd7ea580759421d7",
+      "hash_meta": "e6884ae8060c78f8b20c7fc0d60c097ef8c56c64a391823ce33247fda4cb775d",
+      "seqno": 20441181
+    },
+    "service": {
+      "entropy": "OqAeU3nNSRcmJ07bwW9Dptng",
+      "hostname": "ivokub.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1627220834,
+  "expire_in": 504576000,
+  "prev": "79ccab18af17b4c47ffa0dbe6dccf00dede20ea789b90b313adebdf49aae7ced",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNWdX4aus65tGuv9+SHFTOJfgRxAHDA9lDkvZSNqQE+gKp3BheWxvYWTESpcCLMQgecyrGK8XtMR/+g2+bczwDe3iDqeJuQsxOt699JqufO3EIJYLb7ltoTBlW4tNIjQhQXg/KRP3hZ2BUnIiKFHSYRd9AgHCo3NpZ8RA2y0jTVGabWjNVRGqx+9PvsOmuDuPOC73cMvYPqxBroEpIuHTzWYNrBgPEMFODwUby9FwVcFE814QZLRM0AEoAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHp2q2FkijvF5D/DtGOd9hfekkuhR/KxeyLgjnmytytAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ivokub
+
+==================================================================
