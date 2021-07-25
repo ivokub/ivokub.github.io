@@ -1,0 +1,12 @@
+<a href="{{ "/" | relURL }}">Home</a>
+{{ $currentPage := . }}
+{{ range .Site.Menus.main }}
+{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "" .) }}
+<a href="{{ .URL }}"><b>{{ .Name }}</b></a>
+{{ else }}
+<a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+{{ end }}
+{{ with .Site.GetPage "/blog" }}
+<a href="{{ "/blog" | relURL }}">Blog</a>
+{{ end }}
